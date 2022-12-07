@@ -10,7 +10,7 @@ body {
     height: 100vh;
     align-items: center;
    /* background-color: salmon; */
-   background-image: url("pexels-cottonbro-studio-4778611.jpg");
+   background-image: url("https://images.pexels.com/photos/4778611/pexels-photo-4778611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
    background-repeat: no-repeat;
    background-position: center;
    background-size: cover;
@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-    background-color: rgba(239, 171, 82, 0.8);
+    background-color: rgba(239, 176, 82, 0.8);
     width: 490px;
     padding: 20px;
     margin: 5px;
