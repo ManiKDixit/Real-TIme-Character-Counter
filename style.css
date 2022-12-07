@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-    background-color: rgba(255, 182, 193, 0.8);
+    background-color: rgba(239, 171, 82, 0.8);
     width: 490px;
     padding: 20px;
     margin: 5px;
@@ -48,6 +48,9 @@ body {
 .counter-container p{
     font-size: 18px;
     color: rgb(10, 2, 2);
+}
+span{
+    font-weight: bold;
 }
 
 .total-counter
